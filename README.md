@@ -20,29 +20,29 @@ Source: https://en.wikipedia.org/wiki/COVID-19
 ICU should be considered, as the first version of this dataset, the target variable.
 
 ### Attributes:
-id-           random id of the patient
-sex-          gender of the patient
-patient_type- NA
-entry_date-   date of patient admitted in hospital
-date_symptoms-date from which symptoms started to appear
-date_died-    date of death
-intubed-      breathing devices used or not
-pneumonia-    Pneumonia
-age-          age of the person
-pregnancy-    Pregnant
-diabetes-     Diabetes
-copd-         Chronic obstructive pulmonary disease
-asthma-       Asthma
-inmsupr-      Suppression of the body's immune system and its ability to fight infections and other diseases
-hypertension- High Blood Pressure
-other_disease-Any other diseases
-cardiovascular- Diseases related to heart
-obesity-      Obesity
-renal_chronic-Diseases related to kidney
-tobacco-      consumpting tobacco
-contact_other_covid- Probable contact with people having covid
-covid_res-    NA
-icu-          Requirement to be admitted to ICU
+- id-           random id of the patient
+- sex-          gender of the patient
+- patient_type- NA
+- entry_date-   date of patient admitted in hospital
+- date_symptoms-date from which symptoms started to appear
+- date_died-    date of death
+- intubed-      breathing devices used or not
+- pneumonia-    Pneumonia
+- age-          age of the person
+- pregnancy-    Pregnant
+- diabetes-     Diabetes
+- copd-         Chronic obstructive pulmonary disease
+- asthma-       Asthma
+- inmsupr-      Suppression of the body's immune system and its ability to fight infections and other diseases
+- hypertension- High Blood Pressure
+- other_disease-Any other diseases
+- cardiovascular- Diseases related to heart
+- obesity-      Obesity
+- renal_chronic-Diseases related to kidney
+- tobacco-      consumpting tobacco
+- contact_other_covid- Probable contact with people having covid
+- covid_res-    NA
+- icu-          Requirement to be admitted to ICU
 
 ### This dataset is open to use by anyone.
 
